@@ -203,7 +203,7 @@ pasta *overlays*: A pasta de sobreposições contém sobreposições específica
 ```
 devops-gitops-templates
 ├─ applications
-│  └─ tuddubr
+│  └─ < project >
 │     ├─ < application >
 │     │  ├─ base
 │     │  │  ├─ deployment.yaml
